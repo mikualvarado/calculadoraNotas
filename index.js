@@ -20,3 +20,4 @@ en clase. El promedio obtenido es [indicar promedio].' */
 //       Imprimir 'Nombre del alumno, ¡felicidades! Has aprobado con un promedio de [indicar promedio].'
 // Caso contrario 
 //       'Nombre del alumno, gracias por tu esfuerzo. Nos vemos pronto en clase. El promedio obtenido es [indicar promedio].'
+
